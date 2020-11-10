@@ -12,8 +12,11 @@ The data contains the following  fields:
 * addr: String variable, Address 
 * e: String variable, Dummy variable (always 1)
 
-For this, i used:
+For this, I used:
 pandas 
 numpy
 matplotlib
 seaborn
+
+
+Key focus was Data Cleaning, Data Analysis and Data Visualization.
